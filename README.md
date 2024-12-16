@@ -1,5 +1,5 @@
 # Engagement Prediction App 📚📈
-
+![alt text](image.png)
 ## Overview
 
 This app helps educational content creators optimize their Instagram engagement by analyzing historical data and providing predictions based on factors like posting time, hashtag usage, and posting frequency.
