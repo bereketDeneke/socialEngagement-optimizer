@@ -4,6 +4,9 @@
 
 This app helps educational content creators optimize their Instagram engagement by analyzing historical data and providing predictions based on factors like posting time, hashtag usage, and posting frequency.
 
+## Demo
+[View the App](https://bereketdeneke-socialengagement-optimizer-app-zz6z53.streamlit.app/)
+
 ## Features
 
 - **Predict Engagement**: Predicts engagement ratio using a trained machine learning model.
